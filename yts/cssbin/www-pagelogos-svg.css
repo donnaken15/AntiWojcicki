@@ -1,0 +1,21 @@
+:root {
+	--yt-logo-05: url(https://upload.wikimedia.org/wikipedia/commons/3/3f/Logo_of_YouTube_%282005-2011%29.svg);
+	--yt-logo-06: var(--yt-logo-05);
+	--yt-logo-07: var(--yt-logo-05);
+	--yt-logo-08: var(--yt-logo-05);
+	--yt-logo-09: var(--yt-logo-05);
+	--yt-logo-10: var(--yt-logo-05);
+	--yt-logo-11: var(--yt-logo-05);
+	--yt-logo-12: url(https://upload.wikimedia.org/wikipedia/commons/1/19/Logo_of_YouTube_%282011-2013%29.svg);
+	--yt-logo-13: var(--yt-logo-12);
+	--yt-logo-14: url(https://upload.wikimedia.org/wikipedia/commons/9/90/Logo_of_YouTube_%282013-2015%29.svg);
+	--yt-logo-15: var(--yt-logo-14);
+	--yt-logo-16: url(https://upload.wikimedia.org/wikipedia/commons/e/e1/Logo_of_YouTube_%282015-2017%29.svg);
+	--yt-logo-17: url(https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg);
+	--yt-logo-18: var(--yt-logo-17);
+	--yt-logo-19: var(--yt-logo-17);
+	--yt-logo-20: var(--yt-logo-17);
+	--yt-logo-21: var(--yt-logo-17);
+	--yt-logo-22: var(--yt-logo-17);
+	--yt-logo-23: var(--yt-logo-17);
+}

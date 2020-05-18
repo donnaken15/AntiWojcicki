@@ -1,0 +1,3 @@
+(function(g){var window=this;var Qya=function(){var a=g.wx("speedyg")||{},b=a.lastActivation;a=a.suppressed;b?216E5<(0,g.$c)()-new Date(b)?Pya():(a++,g.vx("speedyg",{lastActivation:b,suppressed:a},2592E3)):Pya()},Pya=function(){var a={lastActivation:(0,g.$c)(),
+suppressed:0};g.vx("speedyg",a,2592E3);a=Rya;var b=Sya;g.Bv(g.Cr("SPEEDYG_INFO"),b,a)},Rya,Sya,Tya=[];g.aj(g.Ar({name:"www/watch_speedyg",deps:["www/watch"],page:"watch",init:function(){if(!g.Df||g.Jc(9))if(!g.km||g.Hc("536.25")){Rya=g.z("watch7-speedyg-area");Sya=g.z("speedyg-template");var a=g.kL();a&&a.addEventListener("CONNECTION_ISSUE",Qya)}},
+dispose:function(){var a=g.kL();a&&a.removeEventListener("CONNECTION_ISSUE",Qya);g.Vg(Tya);Tya.length=0}}));})(_yt_www);
